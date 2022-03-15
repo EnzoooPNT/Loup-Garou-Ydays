@@ -1,3 +1,5 @@
+//Les varibales de la classe parent sont définit ci-dessous
+
 using System;
 namespace Character {
     public class Witch : AllCharacter{

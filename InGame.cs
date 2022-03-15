@@ -1,3 +1,5 @@
+//nous sommes dans la partie, elle contient le choix aléatoire d'un personnage ainsi que le temps donné à chaque joueur pour jouer son coup 
+
 using System;
 using System.Collections;
 using System.Collections.Generic;

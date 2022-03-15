@@ -1,3 +1,5 @@
+//On attribut à tous les personnages des varibales : nom, vie..
+
 using System;
 
 namespace Character{

@@ -1,3 +1,5 @@
+//ici nous travaillons sur les tours de chaque joueur
+
 using System;
 using System.Threading;
 using System.Collections;
